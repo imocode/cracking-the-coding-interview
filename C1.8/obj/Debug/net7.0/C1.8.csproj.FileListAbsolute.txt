@@ -1,0 +1,15 @@
+/Users/oguntaue/Projects/Cracking/C1.8/bin/Debug/net7.0/C1.8
+/Users/oguntaue/Projects/Cracking/C1.8/bin/Debug/net7.0/C1.8.deps.json
+/Users/oguntaue/Projects/Cracking/C1.8/bin/Debug/net7.0/C1.8.runtimeconfig.json
+/Users/oguntaue/Projects/Cracking/C1.8/bin/Debug/net7.0/C1.8.dll
+/Users/oguntaue/Projects/Cracking/C1.8/bin/Debug/net7.0/C1.8.pdb
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.csproj.AssemblyReference.cache
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.AssemblyInfoInputs.cache
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.AssemblyInfo.cs
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.csproj.CoreCompileInputs.cache
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.dll
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/refint/C1.8.dll
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.pdb
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/C1.8.genruntimeconfig.cache
+/Users/oguntaue/Projects/Cracking/C1.8/obj/Debug/net7.0/ref/C1.8.dll
